@@ -1,0 +1,16 @@
+[
+  {
+    "GameFolder": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\tf",
+    "VBSP": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\bin\\vbsp.exe",
+    "VVIS": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\bin\\vvis.exe",
+    "VRAD": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\bin\\vrad_patch.exe",
+    "BSPZip": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\bin\\bspzip.exe",
+    "VBSPInfo": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\bin\\vbspinfo.exe",
+    "VPK": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\bin\\vpk.exe",
+    "GameEXE": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\hl2.exe",
+    "MapFolder": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\tf\\maps",
+    "SDKMapFolder": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\sourcesdk_content\\tf\\mapsrc",
+    "BinFolder": "C:\\Steam\\steamapps\\common\\Team Fortress 2\\bin",
+    "Name": "Team Fortress 2"
+  }
+]

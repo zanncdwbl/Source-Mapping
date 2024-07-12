@@ -1,0 +1,787 @@
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+material "ground/snow_snowgrass_blend" not found.
+Material not found!: GROUND/SNOW_SNOWGRASS_BLEND
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble003a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble002a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/arctic/arctic_snowblendrock_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_brush (-1944.00 3084.00 1228.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3072.0 7829.8 1064.5)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WATER CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WATER 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WATER 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WATER 
+Candidate brush IDs: Brush 345464: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3072.0 7829.8 1158.5)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WATER CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WATER 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WATER 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WATER 
+Candidate brush IDs: Brush 345464: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 2560.0 884.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 2560.0 1368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 2560.0 1648.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 2560.0 2360.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 2560.0 2084.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2560.0 1432.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+material "ground/snow_snowgrass_blend" not found.
+Material not found!: GROUND/SNOW_SNOWGRASS_BLEND
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble003a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble002a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/arctic/arctic_snowblendrock_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (6788922 bytes)
+Error! prop_static using model "models/props_c17/furniturebed001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturebed001a.mdl"!
+Error! To use model "models/props_c17/furnituremattress001a.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_c17/furnituremattress001a.mdl"!
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble002a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble003a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+material "ground/snow_snowgrass_blend" not found.
+Material not found!: GROUND/SNOW_SNOWGRASS_BLEND
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble003a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble002a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/arctic/arctic_snowblendrock_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 188 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (881126 bytes)
+Error! prop_static using model "models/props_c17/furniturebed001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturebed001a.mdl"!
+Error! To use model "models/props_c17/furnituremattress001a.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_c17/furnituremattress001a.mdl"!
+Error! To use model "models/props_facemovie/medic_table_props/dish.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_facemovie/medic_table_props/dish.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5784 texinfos to 3100
+Reduced 153 texdatas to 127 (4368 bytes to 3356)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 8889, actual size 6799
+8 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp
+reading c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.prt
+ 880 portalclusters
+2833 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77801 visible clusters (12.78%)
+Total clusters visible: 608741
+Average clusters visible: 691
+Building PAS...
+Average clusters audible: 878
+visdatasize:194260  compressed from 197120
+writing c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp
+Error! Invalid VTX file checksum: 667451418, expected -214367448 "models/props_interiors/industrial_table01.dx80.vtx"
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+material "ground/snow_snowgrass_blend" not found.
+Material not found!: GROUND/SNOW_SNOWGRASS_BLEND
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble003a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble002a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/arctic/arctic_snowblendrock_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (813831 bytes)
+Error! prop_static using model "models/props_c17/furniturebed001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturebed001a.mdl"!
+Error! To use model "models/props_c17/furnituremattress001a.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_c17/furnituremattress001a.mdl"!
+Error! To use model "models/props_facemovie/medic_table_props/dish.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_facemovie/medic_table_props/dish.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5553 texinfos to 2907
+Reduced 152 texdatas to 126 (4339 bytes to 3327)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 8889, actual size 6799
+9 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp
+reading c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.prt
+ 879 portalclusters
+2833 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2744 visible clusters (1.10%)
+Total clusters visible: 250317
+Average clusters visible: 284
+Building PAS...
+Average clusters audible: 871
+visdatasize:177960  compressed from 196896
+writing c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp', but we don't own that location. Allowing.
+3 minutes, 4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp
+Error! Invalid VTX file checksum: 667451418, expected -214367448 "models/props_interiors/industrial_table01.dx80.vtx"
+10862 faces
+4702383 square feet [677143168.00 square inches]
+491 Displacements
+551189 Square Feet [79371224.00 Square Inches]
+10862 patches before subdivision
+205254 patches after subdivision
+199 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18823573, max 1395
+transfer lists: 143.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(454855, 241359, 201279)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64403, 31505, 23441)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12367, 6326, 4084)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3040, 1709, 965)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(872, 537, 272)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(274, 182, 85)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(91, 64, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(31, 23, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(11, 9, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0625 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 382/1024        18336/49152    (37.3%) 
+brushes               1993/8192        23916/98304    (24.3%) 
+brushsides           15182/65536      121456/524288   (23.2%) 
+planes               10882/65536      217640/1310720  (16.6%) 
+vertexes             18147/65536      217764/786432   (27.7%) 
+nodes                 7464/65536      238848/2097152  (11.4%) 
+texinfos              2907/12288      209304/884736   (23.7%) 
+texdata                126/2048         4032/65536    ( 6.2%) 
+dispinfos              491/0           86416/0        ( 0.0%) 
+disp_verts           39435/0          788700/0        ( 0.0%) 
+disp_tris            62272/0          124544/0        ( 0.0%) 
+disp_lmsamples     1193736/0         1193736/0        ( 0.0%) 
+faces                10862/65536      608272/3670016  (16.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6687/65536      374472/3670016  (10.2%) 
+leaves                7847/65536      251104/2097152  (12.0%) 
+leaffaces            13631/65536       27262/131072   (20.8%) 
+leafbrushes          11817/65536       23634/131072   (18.0%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            76200/512000     304800/2048000  (14.9%) 
+edges                46340/256000     185360/1024000  (18.1%) 
+LDR worldlights        199/8192        17512/720896   ( 2.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips            866/32768        8660/327680   ( 2.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14721/65536       29442/131072   (22.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                18/512          6336/180224   ( 3.5%) 
+LDR lightdata         [variable]    13789860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      177960/16777216 ( 1.1%) 
+entdata               [variable]      346724/393216   (88.2%) VERY FULL!
+LDR ambient table     7847/65536       31388/262144   (12.0%) 
+HDR ambient table     7847/65536       31388/262144   (12.0%) 
+LDR leaf ambient     34734/65536      972552/1835008  (53.0%) 
+HDR leaf ambient      7847/65536      219716/1835008  (12.0%) 
+occluders                8/0             320/0        ( 0.0%) 
+occluder polygons       86/0            1032/0        ( 0.0%) 
+occluder vert ind      382/0            1528/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70896    ( 0.0%) 
+pakfile               [variable]        6799/0        ( 0.0%) 
+physics               [variable]      813831/4194304  (19.4%) 
+physics terrain       [variable]      138557/1048576  (13.2%) 
+
+Level flags = 0
+
+Total triangle count: 27381
+Writing c:\users\danie\desktop\mapping\wip maps\snowday\jb_snowday_remade_v3.bsp
+2 minutes, 38 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+material "ground/snow_snowgrass_blend" not found.
+Material not found!: GROUND/SNOW_SNOWGRASS_BLEND
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 1069616: ParseDispInfoChunk: nummapdispinfo > MAX_MAP_DISPINFO
+Side 2
+Texture: NATURE/BLENDROCKGROUNDWALLSNOW
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+material "ground/snow_snowgrass_blend" not found.
+Material not found!: GROUND/SNOW_SNOWGRASS_BLEND
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble003a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendsnowtocobble002a_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/arctic/arctic_snowblendrock_wvt_patch
+Patching WVT material: maps/jb_snowday_remade_v3/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-10064.00 2656.00 1387.06) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 9616.0 688.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 10128.0 696.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 10128.0 1252.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 9728.0 1876.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 9728.0 1320.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 10240.0 1320.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 8704.0 688.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 8266.7 1588.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 176 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+WARNING: node without a volume
+WARNING: node without a volume
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Snowday\jb_snowday_remade_v3.vmf
+material "ground/snow_snowgrass_blend" not found.
+Material not found!: GROUND/SNOW_SNOWGRASS_BLEND
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 1054232: ParseDispInfoChunk: nummapdispinfo > MAX_MAP_DISPINFO
+Side 0
+Texture: NATURE/BLENDSNOWTOCOBBLE002A

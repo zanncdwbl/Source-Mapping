@@ -1,0 +1,1562 @@
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+Trying to create a non-quad displacement! (entity 0, brush 44)
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+Trying to create a non-quad displacement! (entity 0, brush 44)
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 657 texinfos to 215
+Reduced 45 texdatas to 41 (1291 bytes to 1143)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3041, actual size 2291
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 15
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 657 texinfos to 215
+Reduced 45 texdatas to 41 (1291 bytes to 1143)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3041, actual size 2291
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 15
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\test.bsp
+reading c:\users\danie\desktop\mapping\wip maps\test.prt
+LoadPortals: couldn't read c:\users\danie\desktop\mapping\wip maps\test.prt
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 657 texinfos to 215
+Reduced 45 texdatas to 41 (1291 bytes to 1143)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3041, actual size 2291
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 15
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\test.bsp
+reading c:\users\danie\desktop\mapping\wip maps\test.prt
+LoadPortals: couldn't read c:\users\danie\desktop\mapping\wip maps\test.prt
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 657 texinfos to 215
+Reduced 45 texdatas to 41 (1291 bytes to 1143)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3041, actual size 2291
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 15
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 657 texinfos to 215
+Reduced 45 texdatas to 41 (1291 bytes to 1143)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3041, actual size 2291
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 15
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (0) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 657 texinfos to 215
+Reduced 45 texdatas to 41 (1291 bytes to 1143)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3041, actual size 2291
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 15
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\test.bsp
+reading c:\users\danie\desktop\mapping\wip maps\test.prt
+LoadPortals: couldn't read c:\users\danie\desktop\mapping\wip maps\test.prt
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\test.vmf
+material "tools/toolsblockbullets_solidmetal" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_SOLIDMETAL
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsblockbullets_metalgrate" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_METALGRATE
+material "tools/toolsblockbullets_wood_box" not found.
+Material not found!: TOOLS/TOOLSBLOCKBULLETS_WOOD_BOX
+material "nature/blendrockgroundtomud001" not found.
+Material not found!: NATURE/BLENDROCKGROUNDTOMUD001
+material "tile/floor_tile_007a_black" not found.
+Material not found!: TILE/FLOOR_TILE_007A_BLACK
+material "tile/floor_tile_006a_black" not found.
+Material not found!: TILE/FLOOR_TILE_006A_BLACK
+material "water/water_scrumpymill" not found.
+Material not found!: WATER/WATER_SCRUMPYMILL
+material "effects/fizzler3" not found.
+Material not found!: EFFECTS/FIZZLER3
+material "effects/fizzler2" not found.
+Material not found!: EFFECTS/FIZZLER2
+material "effects/fizzler" not found.
+Material not found!: EFFECTS/FIZZLER
+material "glass/glasswindow001red" not found.
+Material not found!: GLASS/GLASSWINDOW001RED
+material "glass/glasswindow001blu" not found.
+Material not found!: GLASS/GLASSWINDOW001BLU
+Patching WVT material: maps/test/nature/blendrockgroundwallforest_viaduct_event_wvt_patch
+Patching WVT material: maps/test/nature/blendrockgroundwallforest003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_particle_system (-5191.00 1783.01 5677.30) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-544.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-32.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 6656.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 6144.0 -1.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 7168.0 -1.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 6144.0 -493.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2976.0 6144.0 5884.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...
+Brush 1559: areaportal brush doesn't touch two areas
+
+Brush 1575: areaportal brush doesn't touch two areas
+
+Brush 1573: areaportal brush doesn't touch two areas
+
+Brush 1559: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/sign_snickers029" not found.
+material "metal/floorplate01_red" not found.
+material "metal/floorplate01_blue" not found.
+Building Physics collision data...
+done (1) (82196 bytes)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-4334.00, 979.00, 5590.85)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-3760.00, 844.00, 5559.58)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5191.00, 1776.00, 5653.36)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5211.00, 1781.00, 5670.30)
+Static prop models/props_mining/tunnel_truss03e.mdl outside the map (-5230.00, 1771.00, 5653.83)
+Static prop models/props_2fort/lantern001_off.mdl outside the map (-5191.00, 1783.01, 5664.58)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 657 texinfos to 215
+Reduced 45 texdatas to 41 (1291 bytes to 1143)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3041, actual size 2291
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 15
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\test.bsp
+reading c:\users\danie\desktop\mapping\wip maps\test.prt
+LoadPortals: couldn't read c:\users\danie\desktop\mapping\wip maps\test.prt

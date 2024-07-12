@@ -1,0 +1,22 @@
+Fetching update information...
+Loaded JSON metadata PACK from ./Parameters\PACK\meta.json at order 11
+Loaded JSON metadata CUBEMAPS from ./Parameters\CUBEMAPS\meta.json at order 9
+Loaded JSON metadata NAV from ./Parameters\NAV\meta.json at order 8
+Loaded JSON metadata SHUTDOWN from ./Parameters\SHUTDOWN\meta.json at order 20
+Loaded JSON metadata UTILITY from ./Parameters\UTILITY\meta.json at order 10
+Loaded JSON metadata CUSTOM from ./Parameters\CUSTOM\meta.json at order 15
+Loaded JSON metadata COPY from ./Parameters\COPY\meta.json at order 4
+Loaded JSON metadata GAME from ./Parameters\GAME\meta.json at order 13
+Loaded JSON metadata REPACK from ./Parameters\REPACK\meta.json at order 12
+Loaded JSON metadata STATS from ./Parameters\STATS\meta.json at order 14
+Loaded JSON metadata VBSP from ./Parameters\VBSP\meta.json at order 1
+Loaded JSON metadata VRAD from ./Parameters\VRAD\meta.json at order 3
+Loaded JSON metadata VVIS from ./Parameters\VVIS\meta.json at order 2
+Added preset Fast for processes VBSP, VVIS, VRAD, COPY, NAV, CUBEMAPS, UTILITY, PACK, REPACK, GAME, STATS, CUSTOM, SHUTDOWN
+Added preset Full - Both for processes VBSP, VVIS, VRAD, COPY, NAV, CUBEMAPS, UTILITY, PACK, REPACK, GAME, STATS, CUSTOM, SHUTDOWN
+Added preset Full - HDR for processes VBSP, VVIS, VRAD, COPY, NAV, CUBEMAPS, UTILITY, PACK, REPACK, GAME, STATS, CUSTOM, SHUTDOWN
+Added preset Full - LDR for processes VBSP, VVIS, VRAD, COPY, NAV, CUBEMAPS, UTILITY, PACK, REPACK, GAME, STATS, CUSTOM, SHUTDOWN
+Added preset Normal for processes VBSP, VVIS, VRAD, COPY, NAV, CUBEMAPS, UTILITY, PACK, REPACK, GAME, STATS, CUSTOM, SHUTDOWN
+Added preset Publish - Both for processes VBSP, VVIS, VRAD, COPY, NAV, CUBEMAPS, UTILITY, PACK, REPACK, GAME, STATS, CUSTOM, SHUTDOWN
+Added preset Publish - HDR for processes VBSP, VVIS, VRAD, COPY, NAV, CUBEMAPS, UTILITY, PACK, REPACK, GAME, STATS, CUSTOM, SHUTDOWN
+Updater found that Compile Pal is outdated.

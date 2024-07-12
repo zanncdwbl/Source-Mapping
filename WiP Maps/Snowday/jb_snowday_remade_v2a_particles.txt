@@ -1,0 +1,4 @@
+particles_manifest
+{
+	file	"particles/snow_with_collision_custom.pcf"
+}

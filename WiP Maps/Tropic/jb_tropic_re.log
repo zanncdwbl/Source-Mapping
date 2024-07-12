@@ -1,0 +1,391 @@
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124285 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 533 texinfos to 71
+Reduced 11 texdatas to 8 (336 bytes to 272)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+reading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.prt
+ 452 portalclusters
+1174 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 399 visible clusters (0.57%)
+Total clusters visible: 69625
+Average clusters visible: 154
+Building PAS...
+Average clusters audible: 446
+visdatasize:50848  compressed from 57856
+writing c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+277 faces
+126242 square feet [18178916.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+277 patches before subdivision
+1215 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 27148, max 110
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                345/8192         4140/98304    ( 4.2%) 
+brushsides            2283/65536       18264/524288   ( 3.5%) 
+planes                 666/65536       13320/1310720  ( 1.0%) 
+vertexes              2176/65536       26112/786432   ( 3.3%) 
+nodes                  981/65536       31392/2097152  ( 1.5%) 
+texinfos                71/12288        5112/884736   ( 0.6%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  277/65536       15512/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              135/65536        7560/3670016  ( 0.2%) 
+leaves                 983/65536       31456/2097152  ( 1.5%) 
+leaffaces              331/65536         662/131072   ( 0.5%) 
+leafbrushes            742/65536        1484/131072   ( 1.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1893/512000       7572/2048000  ( 0.4%) 
+edges                 1405/256000       5620/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1665/65536        3330/131072   ( 2.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       26160/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       50848/16777216 ( 0.3%) 
+entdata               [variable]        5270/393216   ( 1.3%) 
+LDR ambient table      983/65536        3932/262144   ( 1.5%) 
+HDR ambient table      983/65536        3932/262144   ( 1.5%) 
+LDR leaf ambient       452/65536       12656/1835008  ( 0.7%) 
+HDR leaf ambient       983/65536       27524/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      124285/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 799
+Writing c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.vmf
+Patching WVT material: maps/jb_tropic_re/nature/blenddirttojunglegrass001b_detail_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (118107 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDDIRTTOJUNGLEGRASS001B_DETAIL uses unknown detail object type tf_orchid_grass!
+Material NATURE/BLENDDIRTTOJUNGLEGRASS001B_DETAIL uses unknown detail object type tf_orchid_grass!
+Material NATURE/BLENDDIRTTOJUNGLEGRASS001B_DETAIL uses unknown detail object type tf_orchid_grass!
+Material NATURE/BLENDDIRTTOJUNGLEGRASS001B_DETAIL uses unknown detail object type tf_orchid_grass!
+Material NATURE/BLENDDIRTTOJUNGLEGRASS001B_DETAIL uses unknown detail object type tf_orchid_grass!
+...10
+Compacting texture/material tables...
+Reduced 610 texinfos to 56
+Reduced 17 texdatas to 10 (490 bytes to 279)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 600, actual size 520
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+reading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.prt
+ 345 portalclusters
+ 920 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 133 visible clusters (0.29%)
+Total clusters visible: 45764
+Average clusters visible: 132
+Building PAS...
+Average clusters audible: 327
+visdatasize:31963  compressed from 33120
+writing c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+283 faces
+397688 square feet [57267164.00 square inches]
+7 Displacements
+9948 Square Feet [1432564.25 Square Inches]
+283 patches before subdivision
+4381 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 98954, max 188
+transfer lists:   0.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0011 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                311/8192         3732/98304    ( 3.8%) 
+brushsides            2139/65536       17112/524288   ( 3.3%) 
+planes                 888/65536       17760/1310720  ( 1.4%) 
+vertexes              1853/65536       22236/786432   ( 2.8%) 
+nodes                  941/65536       30112/2097152  ( 1.4%) 
+texinfos                56/12288        4032/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             567/0           11340/0        ( 0.0%) 
+disp_tris              896/0            1792/0        ( 0.0%) 
+disp_lmsamples       28256/0           28256/0        ( 0.0%) 
+faces                  283/65536       15848/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              112/65536        6272/3670016  ( 0.2%) 
+leaves                 953/65536       30496/2097152  ( 1.5%) 
+leaffaces              334/65536         668/131072   ( 0.5%) 
+leafbrushes            849/65536        1698/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1676/512000       6704/2048000  ( 0.3%) 
+edges                 1233/256000       4932/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             73/32768         730/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1224/65536        2448/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      328772/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       31963/16777216 ( 0.2%) 
+entdata               [variable]        4809/393216   ( 1.2%) 
+LDR ambient table      953/65536        3812/262144   ( 1.5%) 
+HDR ambient table      953/65536        3812/262144   ( 1.5%) 
+LDR leaf ambient       455/65536       12740/1835008  ( 0.7%) 
+HDR leaf ambient       953/65536       26684/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2480     ( 0.0%) 
+pakfile               [variable]         520/0        ( 0.0%) 
+physics               [variable]      118107/4194304  ( 2.8%) 
+physics terrain       [variable]        3033/1048576  ( 0.3%) 
+
+Level flags = 0
+
+Total triangle count: 661
+Writing c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 42 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 198 texinfos to 13
+Reduced 6 texdatas to 5 (140 bytes to 118)
+Writing C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\danie\Desktop\Mapping\WiP Maps\Tropic\jb_tropic_re.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+reading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.prt
+ 231 portalclusters
+ 592 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 90 visible clusters (0.35%)
+Total clusters visible: 25703
+Average clusters visible: 111
+Building PAS...
+Average clusters audible: 226
+visdatasize:14814  compressed from 14784
+writing c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+79 faces
+119156 square feet [17158544.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 patches before subdivision
+265 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 136, max 9
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                167/8192         2004/98304    ( 2.0%) 
+brushsides            1098/65536        8784/524288   ( 1.7%) 
+planes                 562/65536       11240/1310720  ( 0.9%) 
+vertexes              1276/65536       15312/786432   ( 1.9%) 
+nodes                  504/65536       16128/2097152  ( 0.8%) 
+texinfos                13/12288         936/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   79/65536        4424/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               23/65536        1288/3670016  ( 0.0%) 
+leaves                 506/65536       16192/2097152  ( 0.8%) 
+leaffaces              117/65536         234/131072   ( 0.2%) 
+leafbrushes            367/65536         734/131072   ( 0.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              449/512000       1796/2048000  ( 0.1%) 
+edges                  272/256000       1088/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             58/32768         580/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           990/65536        1980/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]        3748/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       14814/16777216 ( 0.1%) 
+entdata               [variable]         310/393216   ( 0.1%) 
+LDR ambient table      506/65536        2024/262144   ( 0.8%) 
+HDR ambient table      506/65536        2024/262144   ( 0.8%) 
+LDR leaf ambient       231/65536        6468/1835008  ( 0.4%) 
+HDR leaf ambient       506/65536       14168/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2476     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       61267/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 199
+Writing c:\users\danie\desktop\mapping\wip maps\tropic\jb_tropic_re.bsp
+1 second elapsed

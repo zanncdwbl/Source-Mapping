@@ -1,0 +1,60 @@
+"Maybe"
+Arena
+Floor Maze
+BunnyHop
+Deathfall {But its good}
+Temple Tumble but with *SNOWBALLS*
+Minefield
+Theatre
+
+"Done"
+Speedrun
+Stairway {But its good} 
+Climb {But its good}
+Deathrun {But its good}
+Obby {But its good}
+Fall Game
+Trivia
+Vs Sentry
+Sweeper
+Box Game
+AWP Dodge
+Disco
+Pool
+Dodgeball
+Diner + Diner Area {Add Props and such} {Living area/storage i'd say}
+Crush Game + Crush Game Area {Add Props and such} {fuck knows lmao}
+Teleports in lake and make some for armoury
+
+"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-"
+
+Extended gravity trigger reset to the entire map
+Funny Fire Fireplace
+Cell doors automatically open after 60sec
+
+Increased the brightness (fuck you guys, keep crying about the brightness)
+Changed the fog to match the skybox
+Fixed Disco Song
+Reduced Ambient Sound
+Added countdown to awpdodge
+Remade 3D Skybox
+Changed 2D Skybox to a brighter one
+
+Personal Notes
+Removed all power 4 displacements
+Reworked skybox brushes
+
+Fix Disco Song in file
+
+
+fix the stupid lighting in 3d skybox you knob
+
+"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-"
+
+-windowed -noborder -novid -exec autoexec
+
+-tools -novid
+
+
+Some displacements around awp dodge
+
